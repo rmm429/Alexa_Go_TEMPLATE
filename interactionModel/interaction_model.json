@@ -1,0 +1,53 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "",
+                    "slots": [
+                        {
+                            "name": "",
+                            "type": ""
+                        }
+                    ],
+                    "samples": [
+                        ""
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "",
+                    "values": [
+                        {
+                            "name": {
+                                "value": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
